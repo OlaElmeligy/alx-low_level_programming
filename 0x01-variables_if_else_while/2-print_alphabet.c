@@ -9,7 +9,7 @@ char ch = 'a';
 while (ch <= 'z')
 {
 	putchar(ch);
-	ch++;
+	ch++ '\n';
 }
 		return (0);
 }
