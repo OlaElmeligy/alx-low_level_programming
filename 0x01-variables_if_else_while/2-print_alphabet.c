@@ -10,7 +10,6 @@ while (ch <= 'z')
 {
 	putchar(ch);
 	ch++;
-	putchar('\n');
 }
 return (0);
 }
