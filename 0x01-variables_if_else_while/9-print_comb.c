@@ -12,7 +12,7 @@ int digit = 0;
 	putchar(digit + 48);
 	if (digit != 9)
 	{
-	putchar('.');
+	putchar(',');
 	putchar(' ');
 	}
 	digit++;
